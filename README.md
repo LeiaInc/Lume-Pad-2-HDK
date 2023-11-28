@@ -1,7 +1,7 @@
 # Lume Pad 2 HDK
 
 This is the Lume Pad 2 HDK, a Hardware Development Kit for the Leia Lume Pad 2 and ZTE Nubia Pad 3D devices.
-
+![Lume Connector Pinout Diagram (Closeup)](https://github.com/LeiaInc/Lume-Pad-2-HDK/assets/22143152/6f77a52e-a864-478f-bf2b-29702c126147)
 This HDK includes all you need to develop hardware that conforms to the chassis of the device and the 1st party Leia accessories including Lume Stand and Lume Cover, as well as the pinout of the Lume Connector on the bottom of the device so you can create hardware that utilizes the magnetic Lume Connector for both power and data at USB 2.0 speeds.
 
 In the Lume Pad 2 HDK CAD Files folder, you will find 3 sub-folders with .step files within them, including one for the Lume Pad 2, one for the Lume Cover, and one for the Lume Stand.
